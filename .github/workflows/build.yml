@@ -8,5 +8,6 @@ jobs:
       mode: '["build"]'
       alphas: '["qwerty"]'
       nav: '["vi"]'
+      mapping: '["noreverseangle"]'
       clipboard: '["mac"]'
       kmonad_os: '["mac"]'
